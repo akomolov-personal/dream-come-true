@@ -1,0 +1,7 @@
+{
+  "mongodb":{ 
+	  "uri" : "mongodb://localhost/kuku"
+    	},
+    "import_file":"/Users/akomolov/dreamcometrue/import_data/myTrulia_my_saved_for_sale_homes_10Apr2014(6).csv"	
+    
+}
